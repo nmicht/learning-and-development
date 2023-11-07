@@ -29,6 +29,7 @@ Do you have a recommendation to add to the list? Open a PR and I'll be happy to 
 ## Other subscriptions
 
 - [Harvard business review](https://hbr.org/subscriptions)
+- [O'Reilly](https://www.oreilly.com/online-learning/)
 
 ## Certifications
 
